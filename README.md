@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on embedded systems, software and hardware programming<br>
+🔭 I’m currently working on embedded system design, software and hardware programming<br>
 
 
 # 💻 Tech Stack:
